@@ -1,4 +1,4 @@
-//shortener 1
+//server1
 package main
 
 import (
